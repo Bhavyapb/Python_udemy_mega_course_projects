@@ -2,7 +2,7 @@
 This folder contains projects from the udemy Python Mega course
 
 say_something.py
-    given is the program output:
+    GIVEN IS THE PROGRAM OUTPUT:
      Say Something: 
     how are you
     Say Something: 
